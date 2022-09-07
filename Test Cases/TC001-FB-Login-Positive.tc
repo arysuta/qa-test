@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-FB-Login-Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b07119cc-87a5-418b-8ce4-e769d791bb9c</testCaseGuid>
+</TestCaseEntity>

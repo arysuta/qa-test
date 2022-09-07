@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-FB-Login-Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4db5223f-2879-4d1f-941c-6e18fa049053</testCaseGuid>
+</TestCaseEntity>
